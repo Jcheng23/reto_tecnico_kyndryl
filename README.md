@@ -1,0 +1,2 @@
+# reto_tecnico_kyndryl
+reto_tecnico_kyndryl
